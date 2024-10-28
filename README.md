@@ -5,7 +5,7 @@
 <h1 align="center">Projects</h1>
 <div align="center">
   <a href="https://sign-me-up1.netlify.app" target="_blank" rel="noreferrer" >
-    <p align="center"><img src="https://raw.githubusercontent.com/Concerned-Doggo/SignMeUp/main/public/images/transparent-logo-1.png" alt="SignMeUp!" width="20" height="20" /> SignMeUp!: Sign Language Teaching Website</p>  
+    <p align="center"><img src="https://raw.githubusercontent.com/Concerned-Doggo/SignMeUp/main/public/images/transparent-logo-1.png" alt="SignMeUp!" width="20" height="20" /> SignMeUp!: Sign Language Learning</p>  
   </a>
    <a href="https://mern-estate-t454.onrender.com/" target="_blank" rel="noreferrer" >
     <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="PrimeEstate" width="20" height="20" /> PrimeEstate</p>  
